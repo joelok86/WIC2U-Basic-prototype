@@ -39,6 +39,11 @@ This repository documents my experience learning how HTML, CSS, JavaScript, and 
 
 I plan to continue improving the prototype as I develop my programming skills.
 
+## Project Links
+
+- **Live Website:** [View the WIC2U Family Prototype](https://joelok86.github.io/WIC2U-Basic-prototype/)
+- **Source Code:** [View the GitHub Repository](https://github.com/joelok86/WIC2U-Basic-prototype)
+
 ## Disclaimer
 
 This is an educational demonstration, not an official Virginia WIC application.
