@@ -1,4 +1,4 @@
-# WIC2U — Family Web Application Prototype
+# WIC2U — Basic Web Application Prototype
 
 **Project:** WIC2U — Virginia WIC Access  
 **Recognition:** Second Place, 2026 Virginia Datathon — Team Data Driven Divas  
