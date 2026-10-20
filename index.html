@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1">
+    <title>
+        WIC2U | Family prototype
+    </title>
+    <link rel="stylesheet"
+          href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body>
+<header>
+    <a class="brand" href="index.html">
+        WIC2U
+        <small>
+            FAMILY PROTOTYPE
+        </small>
+    </a>
+    <nav>
+        <a href="#clinics">
+            Find clinics
+        </a>
+        <a href="request.html">
+            Request help
+        </a>
+    </nav>
+</header>
+<main>
+    <section class="hero">
+        <div>
+            <p class="eyebrow">
+                A LOCAL GUIDE FOR VIRGINIA FAMILIES
+            </p>
+            <h1>
+                Finding support should feel
+                <em>clearer.</em>
+            </h1>
+            <p>
+                Explore example WIC locations, review clinic details, and take your next step.
+            </p>
+            <div class="actions">
+                <a class="button" href="#clinics">
+                    Find a nearby clinic ↓</a>
+                <a class="textlink"
+                   href="request.html">
+                    Submit a WIC access request →</a></div>
+            <p class="note">
+                Demo only. Confirm locations and services with Virginia WIC.</p>
+        </div>
+        <div class="art">
+            <span>
+                One clear step<br>
+                at a time.</span>
+        </div>
+    </section>
+    <section id="clinics">
+        <p class="eyebrow">
+            START CLOSE TO HOME
+        </p>
+        <h2>
+            Virginia WIC locations
+        </h2>
+        <p>
+            Search by ZIP code or filter by health district. This demo does not calculate nearest clinics.
+        </p>
+        <div class="filters">
+            <input id="zipSearch" placeholder="Enter a Virginia ZIP code" inputmode="numeric">
+            <select id="districtFilter">
+                <option value="">
+                    All districts
+                </option>
+            </select>
+        </div><p id="count" class="note">
+
+    </p><h3>Clinic map</h3>
+        <div id="map"
+             role="img"
+             aria-label="Interactive map showing sample WIC clinic locations">
+
+        </div><h3>Locations shown on the map</h3><div id="clinicCards" class="cards">
+
+    </div><p class="note">
+        Sample listings transcribed from screenshots, not a verified or complete directory.
+        Some coordinates are approximate city-level markers.
+        Call before visiting.
+    </p></section></main><footer>
+    WIC2U learning prototype ·
+    <a href="https://www.vdh.virginia.gov/wic/" target="_blank" rel="noopener">Official Virginia WIC</a>
+</footer><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="clinics.js">
+
+</script>
+</body>
+</html>

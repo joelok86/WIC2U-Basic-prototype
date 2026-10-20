@@ -1,0 +1,50 @@
+[
+ {
+  "name":"Community Health / WIC",
+  "district":"Arlington",
+  "address":"2100 Washington Blvd, 2nd Floor, Arlington, VA 22204",
+  "zip":"22204",
+  "phone":"703-228-1260",
+  "lat":38.889,"lng":-77.085,"verified":false
+ },
+ {
+  "name":"WIC Wilsondale Satellite Office",
+  "district":"Hampton",
+  "address":"1206 N. King Street, Hampton, VA 23669",
+  "zip":"23669",
+  "phone":"757-224-5007",
+  "lat":37.043,"lng":-76.35,"verified":false
+ },
+ {
+  "name":"WIC-West End",
+  "district":"Henrico",
+  "address":"7740 Shrader Road, Suite B, Henrico, VA 23228",
+  "zip":"23228",
+  "phone":"804-501-1610",
+  "lat":37.63,"lng":-77.52,"verified":false
+ },
+ {
+  "name":"WIC-Park Place",
+  "district":"Norfolk",
+  "address":"606 West 29th Street, Norfolk, VA 23508",
+  "zip":"23508",
+  "phone":"757-683-9230",
+  "lat":36.88,"lng":-76.29,"verified":false
+ },
+ {
+  "name":"WIC-Huntersville",
+  "district":"Norfolk",
+  "address":"830 Goff Street, Norfolk, VA 23504",
+  "zip":"23504",
+  "phone":"757-683-9280",
+  "lat":36.86,"lng":-76.28,"verified":false
+ },
+ {
+  "name":"WIC Corporate Center III",
+  "district":"Virginia Beach",
+  "address":"4452 Corporation Lane, Suite 200, Virginia Beach, VA 23462",
+  "zip":"23462",
+  "phone":"757-518-2789",
+  "lat":36.84,"lng":-76.13,"verified":false
+ }
+]
