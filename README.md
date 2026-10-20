@@ -26,7 +26,7 @@ This simplified prototype explores how families could find clinic information an
 
 HTML, CSS, JavaScript, JSON, Leaflet, and OpenStreetMap.
 
-## Running locally
+## Running it
 
 1. Download or clone this repository.
 2. Open a terminal in the project folder.
@@ -39,7 +39,7 @@ This repository documents my experience learning how HTML, CSS, JavaScript, and 
 
 I plan to continue improving the prototype as I develop my programming skills.
 
-## Important disclaimer
+## Disclaimer
 
 This is an educational demonstration, not an official Virginia WIC application.
 
