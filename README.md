@@ -17,8 +17,8 @@ This simplified prototype explores how families could find clinic information an
 - Interactive Virginia clinic map using Leaflet and OpenStreetMap
 - ZIP code and health district filtering
 - Sample clinic information cards
-- Family assistance request form
-- Demo confirmation code generation
+- WIC assistance request form
+- Confirmation code generation
 - Browser-local storage for demonstration requests
 - Responsive page styling
 
@@ -37,12 +37,21 @@ HTML, CSS, JavaScript, JSON, Leaflet, and OpenStreetMap.
 
 This repository documents my experience learning how HTML, CSS, JavaScript, and JSON work together to create an interactive web application.
 
+I then used Replit to refine the application, and automate several processes. I also used Replit to few of the repetitive tasks such as adding the list of WIC clinics in the state and their addresses. This has been very helpful and saved a lot of time - One of the reasons for being able to complete the app in such short time.
+
+I developed a separate volunteer interface and connected both the user and volunteer interfaces to a shared database. This integration enables real-time data synchronization, allowing volunteers to view submitted request through their interface, real-time.
+
 I plan to continue improving the prototype as I develop my programming skills.
+
+### Live Application Links
+
+- User Interface: [https://wic-2-u-virginia-wic-access--jyothisrilok.replit.app/]
+- Volunteer Interface: [https://wic-2-u-virginia-wic-access--jyothisrilok.replit.app/volunteer-mobile-wic]
 
 ## Project Links
 
-- **Live Website:** [View the WIC2U Basic Prototype](https://joelok86.github.io/WIC2U-Basic-prototype/)
-- **Source Code:** [View the GitHub Repository](https://github.com/joelok86/WIC2U-Basic-prototype)
+- Live Website: [View the WIC2U Basic Prototype](https://joelok86.github.io/WIC2U-Basic-prototype/)
+- Source Code: [View the GitHub Repository](https://github.com/joelok86/WIC2U-Basic-prototype)
 
 ## Disclaimer
 
@@ -50,4 +59,4 @@ This is an educational demonstration, not an official Virginia WIC application.
 
 Clinic listings are sample data and may be inaccurate or outdated. Requests are stored only in the user's browser and are not sent to WIC or an outreach coordinator. Do not enter real personal or health information.
 
-The original WIC2U Datathon solution was a collaborative effort by Team Data Driven Divas. This repository documents my work on the basic family-facing prototype.
+The original WIC2U Datathon solution was a collaborative effort by Team Data Driven Divas. This repository documents my work on the basic user-facing prototype.
